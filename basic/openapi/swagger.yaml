@@ -24,3 +24,4 @@ paths:
           description: is alive
 servers:
   - url: http://0.0.0.0:8081/v1/basic
+  - url: http://0.0.0.0:8082/v1/basic
