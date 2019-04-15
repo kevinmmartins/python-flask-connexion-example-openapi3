@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  basic-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8081"
+

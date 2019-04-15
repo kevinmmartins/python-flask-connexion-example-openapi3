@@ -1,0 +1,26 @@
+openapi: 3.0.0
+info:
+  description: Basic project with Flask , Connexion and OpenApi 3
+  version: 1.0.0
+  title: Connexion example
+  contact:
+    email: kevinmmartins@gmail.com
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+tags:
+  - name: alive
+    description: Keepalive
+paths:
+  /ping:
+    get:
+      tags:
+        - alive
+      summary: Api keepalive
+      description: Api keepalive
+      operationId: basic.controllers.alive_controller.is_alive
+      responses:
+        "200":
+          description: is alive
+servers:
+  - url: http://0.0.0.0:8081/v1/basic
