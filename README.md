@@ -1,6 +1,5 @@
 # Basic project with Flask , Connexion and OpenApi 3
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5422080cb5614a6ab6d8babc403eee1a)](https://app.codacy.com/app/kevinmmartins/python-flask-connexion-example-openapi3?utm_source=github.com&utm_medium=referral&utm_content=kevinmmartins/python-flask-connexion-example-openapi3&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/kevinmmartins/python-flask-connexion-example-openapi3.svg?branch=master)](https://travis-ci.org/kevinmmartins/python-flask-connexion-example-openapi3)
 
 Basic Python project using Flask and Connexion by Zalando
