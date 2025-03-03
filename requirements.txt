@@ -2,4 +2,4 @@ setuptools >= 21.0.0
 gunicorn==23.0.0
 flask-marshmallow==1.1.0
 flask-cors==5.0.0
-connexion[swagger-ui]==3.1.0
+connexion[swagger-ui]==3.2.0
