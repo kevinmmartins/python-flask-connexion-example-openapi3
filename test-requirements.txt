@@ -5,4 +5,4 @@ py>=1.4.31
 pytest
 pytest-cov
 randomize>=0.13
-mockito==1.5.4
+mockito==1.5.5
