@@ -1,4 +1,4 @@
-setuptools >= 21.0.0
+setuptools >= 84.0.0
 gunicorn==25.1.0
 flask-marshmallow==1.3.0
 flask-cors==6.0.2
